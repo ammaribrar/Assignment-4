@@ -1,0 +1,132 @@
+
+div{
+    width: 950px;
+    text-align:right;
+    word-spacing:30px;
+    margin-top:30px;
+}
+
+#top{
+background-color:black;
+color: white;
+}
+
+#line{
+    margin-top: 30px;
+    color: rgb(227, 227, 26);
+}
+
+#heading{
+    margin-top: 70px;
+    margin-left: 300px;
+    text-align:left;
+}
+#margin{
+margin-right: 275px;
+}
+.Glam{
+     color:red;
+}
+#image{
+    margin-top:80px;
+    margin-left: 295px;
+    width:600px;
+    height: 300px;
+    }
+
+section{
+    background-color: white;
+    height: 800px;
+    width: 100%;
+    margin-top: 50px;
+}
+#data{
+    color: black;
+    margin-left: 300px;
+    
+    }  
+#fit{
+margin-bottom: 200px;
+text-align:center;
+margin-left: 100px;
+word-spacing:400px;
+}
+#a{
+    color: white;
+}
+#time{
+    margin-left: 100px;
+    }
+#date{
+    margin-left: 300px;
+    
+}
+#para{
+    margin-left: 300px;
+    color: black;
+}
+#page{
+    text-decoration: none;
+    color:white;
+}
+#pages{
+    text-decoration: none;
+    color:white;
+}
+#pagess{
+    text-decoration: none;
+    color:white;
+}
+#page1{
+    text-decoration: none;
+    color:white;
+}
+#image1{
+    width: 30px;
+    margin-left: 300px;
+}
+#name{
+    width: 10px;
+}
+#icon{
+    width: 5px;
+}
+#bottom{
+    color: white;
+    margin-left: 200px;
+    background-color: blue;
+    text-decoration:solid;
+    
+}
+#bottom1{
+    color: white;
+    margin-left: 400px;
+    font-size: 20px;
+    background-color: aqua;
+    
+}
+footer{
+    margin-bottom: 5px;
+    margin-left: 100px;
+    margin-top: 10px;
+    font-size: 20px;
+    
+}
+#container{
+    
+    display: flex;
+    justify-content: left;
+}
+#asd{
+
+display: flex;
+    justify-content: center;
+    height: 200px;
+
+}
+#as{
+    
+    display: flex;
+    justify-content: center;
+}
+
